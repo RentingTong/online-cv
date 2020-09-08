@@ -42,12 +42,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a self-motivated and innovative person, a quick learner of cutting-edge
+      technology, who always have enthusiasm to immerse myself to the latest technology.
+      I am adept at setting up automation test framework and developing automation
+      test cases. I also have outstanding problem-solving ability and can complete
+      my daily work efficiently.
 
 education:
     - degree: MSc in Electronical Engineering
@@ -157,13 +156,19 @@ skills:
       - name: Python & Django
         level: 98%
 
-      - name: Linux
+      - name: Linux & Unix
         level: 90%
 
-      - name: VMWare vSphere
+      - name: VMWare Infrastructure
         level: 90%
+
+      - name: Jira & Bugzilla & HPQC
+        level: 85%
 
       - name: Shell
+        level: 85%
+
+      - name: Git & Jenkins
         level: 85%
 
       - name: Java
