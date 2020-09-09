@@ -27,19 +27,22 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Professional
+        level: Fluent
 
       - idiom: Chinese
         level: Native
 
     interests:
-      - item: Drawing
+      - item: Reading
         link:
 
       - item: Cooking
         link:
 
-career-profile:
+      - item: Drawing
+        link:
+
+self-appraisal:
     title: Career Profile
     summary: |
       I am a self-motivated and innovative person, a quick learner of cutting-edge
@@ -158,7 +161,7 @@ skills:
         level: 90%
 
       - name: Jira & Bugzilla & HPQC
-        level: 85%
+        level: 98%
 
       - name: Shell
         level: 85%
