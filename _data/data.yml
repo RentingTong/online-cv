@@ -24,6 +24,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    address: Shanghai, China
 
     languages:
       - idiom: English
@@ -94,7 +95,7 @@ experiences:
       company: IBM, Shanghai
       details: |
         Served for disk storage product - XIV, which is an integral part of IBM
-        sepctrum storage family. Here I paly a role as software test engineer:
+        sepctrum storage family. Here I paly a role as a software test engineer:
           - Set up cluster test environment.
           - Design and execute test cases.
 
