@@ -155,6 +155,9 @@ skills:
       - name: Python & Flask & Django
         level: 98%
 
+      - name: Selenium
+        level: 90%
+        
       - name: Linux & Unix
         level: 90%
 
