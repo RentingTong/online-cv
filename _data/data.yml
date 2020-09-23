@@ -152,7 +152,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & Flask & Django
         level: 98%
 
       - name: Linux & Unix
@@ -167,8 +167,5 @@ skills:
       - name: Shell
         level: 85%
 
-      - name: Git & Jenkins
+      - name: Git
         level: 85%
-
-      - name: Java
-        level: 30%
